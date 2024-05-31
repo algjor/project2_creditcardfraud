@@ -1,1 +1,1 @@
-# project2_creditcardfraud
+# project2_divorcepredictor
